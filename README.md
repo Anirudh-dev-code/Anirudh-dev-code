@@ -2,17 +2,22 @@
 
 
 🎓 ECE Student  
-🤖 Learning Embedded Systems & AI  
-🚀 Goal: High-paying core tech job  
+🤖 Focused on Embedded Systems, AI & Robotics  
+🛠️ Building real-world engineering projects  
+🚀 Passionate about technology & innovation  
+🎯 Goal: High-impact core tech career & startup
 
 ---
 
 ## 🛠 Skills
-- C Programming  
-- Python  
-- Arduino  
-- Embedded Systems
-- ![Python](https://img.shields.io/badge/Python-blue)
+## 🛠 Skills
+
+![C](https://img.shields.io/badge/C-blue)
+![Python](https://img.shields.io/badge/Python-green)
+![Arduino](https://img.shields.io/badge/Arduino-orange)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-red)
+![Git](https://img.shields.io/badge/Git-black)
+![GitHub](https://img.shields.io/badge/GitHub-181717)
 
 
 
