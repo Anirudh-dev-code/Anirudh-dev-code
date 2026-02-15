@@ -23,5 +23,8 @@
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-dev-code&show_icons=true&theme=tokyonight)
+
+
 ## 📫 Connect with me
 - LinkedIn: (add later)
