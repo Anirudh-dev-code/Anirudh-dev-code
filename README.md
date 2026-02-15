@@ -1,4 +1,5 @@
-# Hi, I'm Anirudh 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Anirudh;ECE+Student;Learning+Embedded+Systems+%26+AI;Future+Robotics+Engineer)
+
 
 🎓 ECE Student  
 🤖 Learning Embedded Systems & AI  
