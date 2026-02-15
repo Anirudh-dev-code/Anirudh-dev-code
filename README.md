@@ -28,7 +28,8 @@
 
 
 ## 📫 Connect with me
-- LinkedIn: (add later)
-
+- LinkedIn: linkedin.com/in/anirudh-n-647108381
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh-dev-code&show_icons=true&theme=tokyonight)
+
+
 
