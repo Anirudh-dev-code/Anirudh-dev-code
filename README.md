@@ -1,5 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Hi+I'm+Anirudh;ECE+Student;Learning+Embedded+Systems+%26+AI;Future+Robotics+Engineer)
 
+---
+
+### 🚀 About Me
+I am an Electronics & Communication Engineering student focused on  
+Embedded Systems, AI, and Robotics.  
+I love building real-world engineering projects and continuously  
+improving my technical skills toward a high-impact tech career.
+
 
 🎓 ECE Student  
 🤖 Focused on Embedded Systems, AI & Robotics  
