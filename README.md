@@ -48,6 +48,11 @@ improving my technical skills toward a high-impact tech career.
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=Anirudh-dev-code&theme=tokyonight)
 
 
+---
+
+## 📈 Contribution Graph
+
+![Snake animation](https://github.com/Anirudh-dev-code/Anirudh-dev-code/blob/output/github-contribution-grid-snake.svg)
 
 
 
